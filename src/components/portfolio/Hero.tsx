@@ -26,7 +26,7 @@ const Hero = () => {
     },
     {
       icon: Mail,
-      href: "https://mail.google.com/mail/?view=cm&fs=1&to=kamaan551@gmail.com&su=Hello%20from%20your%20portfolio&body=Hi%20Amaan,%0A%0AI%20found%20your%20portfolio%20and%20would%20like%20to%20get%20in%20touch.%0A%0ABest%20regards,`",
+      href: "mailto:kamaan551@gmail.com",
       label: "Email",
       delay: 0.8,
     },
