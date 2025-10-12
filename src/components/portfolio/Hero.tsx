@@ -32,7 +32,7 @@ const Hero = () => {
     },
     {
       icon: FileDown,
-      href: "/Amaan_Khan_CV.pdf", // put your resume file in public/resume.pdf
+      href: "/Amaan_SDE_Resume.pdf", // put your resume file in public/resume.pdf
       label: "Resume",
       delay: 0.9,
       download: true,

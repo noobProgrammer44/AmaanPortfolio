@@ -37,7 +37,7 @@ const Experience = () => {
       company: "IIT Patna",
       position: "Machine Learning Intern",
       period: "2023 - 2024",
-      location: "Patna, India",
+      location: "Patna, India (Remote)",
       description: [
         "Designed a task-offloading strategy for IoT edge devices using LSTMs and deep reinforcement learning",
         "Reduced task drop rates by 22% and lowered computational costs by 18%",
@@ -60,7 +60,7 @@ const Experience = () => {
       company: "Feynn AI",
       position: "Machine Learning Intern",
       period: "2023",
-      location: "Remote",
+      location: "India (Remote)",
       description: [
         "Performed market and customer segmentation using machine learning for targeted marketing.",
         "Improved campaign accuracy by 25% through data-driven insights",
